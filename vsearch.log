@@ -1,0 +1,8 @@
+ImmutableMultiDict([('phrase', 'india is country'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48|{'o', 'u', 'i', 'a'}
+ImmutableMultiDict([('phrase', 'suprabhat'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.48|{'u', 'a'}
+ImmutableMultiDict([('phrase', 'kllloo'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36|{'o'}
+ImmutableMultiDict([('phrase', 'dhdjdk'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36|set()
+ImmutableMultiDict([('phrase', 'jkiiojujk'), ('letters', 'aeiou')])|127.0.0.1|None|{'u', 'o', 'i'}
+ImmutableMultiDict([('phrase', 'jkiiojujkkkl'), ('letters', 'aeiou')])|127.0.0.1|None|{'o', 'u', 'i'}
+ImmutableMultiDict([('phrase', 'qwettyuioo'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36|{'u', 'o', 'i', 'e'}
+ImmutableMultiDict([('phrase', 'asdrertggh'), ('letters', 'a')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36|{'a'}
